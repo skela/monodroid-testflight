@@ -48,7 +48,7 @@ namespace TFTester
 			
 			button.Click += delegate
 			{
-				TestFlight.LogEvent("Clicked Button");
+				TestFlight.PassCheckpoint("Clicked Button");
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
 		}
