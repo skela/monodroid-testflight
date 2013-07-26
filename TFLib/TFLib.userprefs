@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TFTester/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TFLib/TestFlight.cs">
     <Files>
-      <File FileName="TFTester/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="TFLib/TestFlight.cs" Line="10" Column="65" />
+      <File FileName="TFTester/MainActivity.cs" Line="57" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
