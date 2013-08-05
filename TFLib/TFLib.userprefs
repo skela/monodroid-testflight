@@ -2,13 +2,32 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TFLib/TestFlight.cs">
     <Files>
-      <File FileName="TFLib/TestFlight.cs" Line="10" Column="65" />
-      <File FileName="TFTester/MainActivity.cs" Line="57" Column="1" />
+      <File FileName="TFLib/TestFlight.cs" Line="11" Column="4" />
+      <File FileName="TFTester/MainActivity.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="TFLib" expanded="True" selected="True" />
+          <Node name="TFTester" expanded="True">
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.dict.Keys</Value>
+          <Value>this</Value>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TFTester AndroidDeviceId-Debug="localhost:5555" />
+  <MonoDevelop.Ide.ItemProperties.TFTester AndroidDeviceId-Debug="HC1ABVB00174" />
 </Properties>
