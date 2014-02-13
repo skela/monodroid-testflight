@@ -12,6 +12,7 @@ public class JarApp extends Application
     {
         super.onCreate();
         Log.d("App", "Starting app");
+
         TestFlight.takeOff(this, "some-kind-of-uid");
     }
 }

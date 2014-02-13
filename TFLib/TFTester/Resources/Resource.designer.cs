@@ -26,7 +26,7 @@ namespace TFTester
 		
 		public static void UpdateIdValues()
 		{
-			MonoDroid.TestFlightLib.Resource.String.library_name = TFTester.Resource.String.library_name;
+			global::MonoDroid.TestFlightLib.Resource.String.library_name = global::TFTester.Resource.String.library_name;
 		}
 		
 		public partial class Attribute
