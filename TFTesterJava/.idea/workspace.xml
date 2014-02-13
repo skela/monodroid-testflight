@@ -86,7 +86,7 @@
       <file leaf-file-name="TestFlight.class" pinned="false" current="true" current-in-tab="true">
         <entry file="jar://$PROJECT_DIR$/JarTester/libs/TestFlightLib.jar!/com/testflightapp/lib/TestFlight.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="3036" selection-end="3036" vertical-scroll-proportion="0.73021585" vertical-offset="351" max-vertical-offset="1470">
+            <state line="45" column="0" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.2266187" vertical-offset="471" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
@@ -929,7 +929,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/JarTester/libs/TestFlightLib.jar!/com/testflightapp/lib/TestFlight.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="3036" selection-end="3036" vertical-scroll-proportion="0.73021585" vertical-offset="351" max-vertical-offset="1470">
+        <state line="45" column="0" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.2266187" vertical-offset="471" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
