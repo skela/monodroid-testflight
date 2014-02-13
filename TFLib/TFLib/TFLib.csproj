@@ -57,16 +57,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
-    <None Include="..\..\TF\TestFlightLib.jar">
-      <Link>TF\TestFlightLib.jar</Link>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
-    <Folder Include="Testflight\" />
-    <Folder Include="TF\" />
+    <AndroidJavaLibrary Include="..\..\TF\TestFlightLib.jar">
+      <Link>TestFlightLib.jar</Link>
+    </AndroidJavaLibrary>
   </ItemGroup>
 </Project>
